@@ -121,6 +121,7 @@ void set_keypad_config(keypad * k, keypad_config * config);
 */
 void get_default_keypad_config(keypad_config * config);
 void set_cols(keypad *k);
+void DelayTPM();
 uint8_t get_rows(keypad *k);
 
 /*!

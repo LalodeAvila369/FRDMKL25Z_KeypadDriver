@@ -9,8 +9,6 @@
 #include "keypad.h"
 
 
-void DelayTPM();
-
 keypad k;
 int main(void) {
 
